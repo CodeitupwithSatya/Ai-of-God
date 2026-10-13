@@ -6,9 +6,9 @@
 
 | Name | GitHub Profile |
 |------|----------------|
-| Mayank Mishra | [@username1](https://github.com/Mayank2305Mishra) |
-| Satyaroop Chatterjee | [@username2](https://github.com/CodeitupwithSatya) |
-| Sourish Kumar Dutta | [@username3](https://github.com/sourishkumardutta) |
+| Mayank Mishra | [@Mayank2305Mishra](https://github.com/Mayank2305Mishra) |
+| Satyaroop Chatterjee | [@CodeitupwithSatya](https://github.com/CodeitupwithSatya) |
+| Sourish Kumar Dutta | [@sourishkumardutta](https://github.com/sourishkumardutta) |
 
 
 # AoG-ML4GOD — Animal Classification (AI of GOD 5)
