@@ -1,3 +1,16 @@
+
+#The 2nd place solution for AI of GOD - 5 🎉 2k26
+### Team Members - Mayank Mishra , Satyroop Chatterjee , Sourish Kumar Dutta
+
+## 👥 Team Members
+
+| Name | GitHub Profile |
+|------|----------------|
+| Mayank Mishra | [@username1](https://github.com/Mayank2305Mishra) |
+| Satyaroop Chatterjee | [@username2](https://github.com/CodeitupwithSatya) |
+| Sourish Kumar Dutta | [@username3](https://github.com/sourishkumardutta) |
+
+
 # AoG-ML4GOD — Animal Classification (AI of GOD 5)
 
 72-class animal image classification with colourised segmentation overlays, optimised for **macro F1**. Each model is trained with stratified 5-fold CV, checkpointing on val macro-F1, and combined in a fold-averaged ensemble.
