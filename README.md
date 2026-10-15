@@ -1,6 +1,6 @@
 
 #The 2nd place solution for AI of GOD - 5 🎉 2k26
-### Team Members - Mayank Mishra , Satyroop Chatterjee , Sourish Kumar Dutta
+### Team Members - Mayank Mishra , Satyaroop Chatterjee , Sourish Kumar Dutta
 
 ## 👥 Team Members
 
